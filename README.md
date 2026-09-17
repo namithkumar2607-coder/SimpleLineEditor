@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Line Editor in C
 
 ## Team Members
@@ -29,3 +30,6 @@ Array of Strings
 ```c
 char lines[100][200];
 int lineCount = 0;
+=======
+s
+>>>>>>> 3d008ce59ee1d766ac0c376df827f85adc66ce01
